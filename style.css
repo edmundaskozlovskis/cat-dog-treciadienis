@@ -1,0 +1,15 @@
+:root {
+    --white: #ffffff;
+    --blue: #475AFF;
+    --circle-blue: #6079FF;
+    --circle-purple: #D660FF;
+    --black: #000000;
+    --silver: #9F9F9F;
+}
+body {
+    margin: 0;
+}
+.container {
+    max-width: 1065px;
+    margin: 0 auto;
+}
